@@ -15,5 +15,5 @@ My current interests include: "Spider" pulsars, X-ray binaries (in particular Te
 
 Contact Me
 ======
-Email: jicortes@ucsc.edu
+Email: [jicortes@ucsc.edu](mailto:jicortes@ucsc.edu) <br>
 Office: Interdisciplinary Sciences Building, Room 369, UC Santa Cruz
